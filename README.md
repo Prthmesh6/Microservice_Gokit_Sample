@@ -1,4 +1,4 @@
-# Lifetime and Daily Leaderboard for streaming application
+# Real Time LeaderBoard using Redis
 
 ## Overview
 
