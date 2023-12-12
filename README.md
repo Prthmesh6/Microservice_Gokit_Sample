@@ -29,7 +29,7 @@ The project is structured based on the Onion architecture, promoting clean and m
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/SurajKadam7/leaderboard_microservice.git
+git clone https://github.com/Prthmesh6/Microservice_Gokit_Sample.git
 ```
 
 2. **Build & Run Using Docker**:
