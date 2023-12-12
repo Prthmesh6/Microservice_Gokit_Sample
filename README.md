@@ -1,6 +1,6 @@
 Lifetime and Daily Leaderboard for streaming backend application
 Overview
-This project is a representation of how the production level code should look like when you are building some microservice in Golang. Also for real time leaderboard applications like Gaming and YouTube, We can use sorted Sets data structure in Redis which is used in this project.
+This project is a representation of how the production level code should look like when you are building a microservice in Golang. Also for real time leaderboard applications like Gaming and YouTube, We can use sorted Sets data structure in Redis which is used in this project.
 
 Features
 Daily and Lifetime Views: Tracks views of videos on a daily and overall (lifetime) basis.
