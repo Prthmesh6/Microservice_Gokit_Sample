@@ -1,5 +1,9 @@
 # Real Time LeaderBoard using Redis
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Overview
 
 This project is a representation of how the production level code should look like when you are building a microservice in Golang. Also for real time leaderboard applications like Gaming and YouTube, We can use sorted Sets data structure in Redis which is used in this project.
@@ -32,6 +36,7 @@ The project is structured based on the Onion architecture, promoting clean and m
 git clone https://github.com/Prthmesh6/Microservice_Gokit_Sample.git
 ```
 
+\
 2. **Build & Run Using Docker**:
 ```bash
 docker compose up -d
