@@ -44,7 +44,6 @@ The project is structured based on the Onion architecture, promoting clean and m
 git clone https://github.com/Prthmesh6/Microservice_Gokit_Sample.git
 ```
 
-\
 2. **Build & Run Using Docker**:
 ```bash
 docker compose up -d
