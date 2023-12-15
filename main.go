@@ -24,6 +24,7 @@ const (
 )
 
 func main() {
+	//using consul for configs
 	config_consul := api.DefaultConfig()
 	client_consul, err := api.NewClient(config_consul)
 	if err != nil {
