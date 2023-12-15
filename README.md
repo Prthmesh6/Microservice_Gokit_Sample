@@ -16,6 +16,12 @@
 
 This project is a representation of how the production level code should look like when you are building a microservice in Golang. Also for real time leaderboard applications like Gaming and YouTube, We can use sorted Sets data structure in Redis which is used in this project.
 
+### Documentation
+
+- [Sorted Sets Redis](https://redis.io/docs/data-types/sorted-sets)
+- [GoKit](https://github.com/go-kit/kit)
+
+
 ## Features
 
 - **Daily and Lifetime Views**: Tracks views of videos on a daily and overall (lifetime) basis.
